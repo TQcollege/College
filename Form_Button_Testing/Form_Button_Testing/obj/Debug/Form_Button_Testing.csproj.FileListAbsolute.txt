@@ -1,0 +1,10 @@
+C:\Users\trevo\source\repos\Form_Button_Testing\Form_Button_Testing\bin\Debug\Form_Button_Testing.exe.config
+C:\Users\trevo\source\repos\Form_Button_Testing\Form_Button_Testing\bin\Debug\Form_Button_Testing.exe
+C:\Users\trevo\source\repos\Form_Button_Testing\Form_Button_Testing\bin\Debug\Form_Button_Testing.pdb
+C:\Users\trevo\source\repos\Form_Button_Testing\Form_Button_Testing\obj\Debug\Form_Button_Testing.csproj.AssemblyReference.cache
+C:\Users\trevo\source\repos\Form_Button_Testing\Form_Button_Testing\obj\Debug\Form_Button_Testing.Form1.resources
+C:\Users\trevo\source\repos\Form_Button_Testing\Form_Button_Testing\obj\Debug\Form_Button_Testing.Properties.Resources.resources
+C:\Users\trevo\source\repos\Form_Button_Testing\Form_Button_Testing\obj\Debug\Form_Button_Testing.csproj.GenerateResource.cache
+C:\Users\trevo\source\repos\Form_Button_Testing\Form_Button_Testing\obj\Debug\Form_Button_Testing.csproj.CoreCompileInputs.cache
+C:\Users\trevo\source\repos\Form_Button_Testing\Form_Button_Testing\obj\Debug\Form_Button_Testing.exe
+C:\Users\trevo\source\repos\Form_Button_Testing\Form_Button_Testing\obj\Debug\Form_Button_Testing.pdb
